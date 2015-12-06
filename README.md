@@ -10,8 +10,8 @@ Pargraph *bold* **italic**
 1. List 1
 2. List 2
 3. List 3
-  3.1 List 3.1
-  3.2 List 3.2
+__* List 3.1
+__* List 3.2
 4. List 4
 
 * List 1
